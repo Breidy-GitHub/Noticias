@@ -1,0 +1,28 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>usuario .<ion-icon name="person"></ion-icon></ion-title>
+
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <div id="list_users">
+    <ion-card>
+      <ion-icon name="people"></ion-icon> 
+      Usuario 1
+      <div id="boton1">
+        <button (click)="fun()">ver información</button>
+      </div>
+    </ion-card> 
+    <ion-card>
+      <ion-icon name="people"></ion-icon> 
+      Usuario 2
+      <div id="boton2">
+        <button (click)="fun()">ver información</button>
+      </div>
+    </ion-card> 
+  </div>
+</ion-content>

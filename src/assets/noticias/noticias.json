@@ -1,0 +1,85 @@
+[
+    {
+        "noticias": {
+            "name": "All",
+            "date": "2023-07-30",
+            "show": true,
+            "categorys": [
+                {
+                    "name": "Formación",
+                    "value": "formacion"
+                },
+                {
+                    "name": "Cordinación",
+                    "value": "cordinacion"   
+                },
+                {
+                    "name": "Novedades",
+                    "value": "novedades"
+                },
+                {
+                    "name": "Otros",
+                    "value": "otros"
+                }
+            ]
+
+        },
+        "detailNoticias": [
+            {
+                "title": "Japón celebra el Festival de Hanami",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "El Hanami (花見) es una festividad que encarna una tradición milenaria en Japón y se ha convertido en una de las favoritas del país. Celebrada entre los meses de marzo y abril, esta festividad consiste en la visita a diferentes lugares donde los cerezos en flor, conocidos como sakura, crean un espectáculo natural deslumbrante.Japoneses y turistas extranjeros se reúnen en estos lugares para presenciar la maravilla de la naturaleza. En Japón, el período de floración simboliza un nuevo comienzo, marcando la llegada de la primavera. De hecho, la palabra hanami significa literalmente observar flores. El distintivo color rosa de los cerezos en flor tiñe parques, calles y montañas, creando un paisaje de ensueño mientras los japoneses aprovechan para realizar actividades al aire libre, como pícnics, paseos en bote por los lagos y simplemente disfrutar del entorno.En años recientes, las autoridades han permitido la entrada de alcohol y comida a estos espacios públicos, transformando el Hanami en una festividad que a menudo se extiende hasta altas horas de la madrugada. Algunos sostienen que esta práctica está alejando la festividad de su esencia original, ya que muchas personas acuden para festejar en lugar de apreciar la belleza natural, que es el verdadero espíritu de la celebración. No obstante, esta evolución también ha contribuido a atraer a más turistas extranjeros a Japón durante este período.Tanto el Monte Fuji como los árboles de sakura son símbolos icónicos de Japón, y es fundamental tratarlos con el debido respeto. Si tienes la oportunidad de visitar el país durante el Hanami, recuerda que estos elementos son considerados sagrados y deben ser tratados con cuidado y reverencia.Todo lo necesario para disfrutar de esta celebración es dirigirse a uno de los lugares de floración, llevar una manta para un picnic, un poco de sushi y tu bebida preferida. Así podrás pasar horas bajo el manto de los sakura, disfrutando de actividades como la lectura de un libro o escuchando tu música favorita.Recuerda siempre respetar los árboles y el entorno, evitando tocarlos o dejar residuos en los espacios, ya que esto es considerado una falta de respeto en el país y podría acarrear sanciones.",
+                "text_long": "Disfruta de la belleza de los cerezos en flor en todo el país.",
+                "url_imag": "https://cdn.pixabay.com/photo/2021/04/30/03/14/road-6217805_640.jpg ",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Japón lanza el tren bala más rápido del mundo",
+                "date": "2023-08-10",
+                "show": true,
+                "text_small": "El Shinkansen comenzó a operar justo antes de inaugurarse los Juegos Olímpicos de Tokio 1964. Lo hizo en la línea Tōkaidō Shinkansen, que unía las estaciones de Tokio y Shin-Ōsaka. Su debut vino rodeado de expectación mundial, pues era el primer superexpreso que superaba los 200 kilómetros por hora. Fue, además, un símbolo del renacimiento de Japón después de la Segunda Guerra Mundial y de una etapa de crecimiento económico rápido y sostenido conocida internacionalmente como “milagro japonés”. A la línea Tōkaido Shinkansen siguió, en 1972, la San’yō Shinkansen, entre Shin-Ōsaka y Okayama. Tres años después esta se extendió hasta Hakata, ya en la isla de Kyūshū.Principio del formularioEn 1982 se inició la expansión hacia el norte de Tokio con la apertura de otras dos líneas: Tōhoku Shinkansen (Ōmiya-Morioka) y Jōetsu Shinkansen (Ōmiya-Niigata). En aquella época, la ferroviaria estatal entró en una fase de grandes dificultades financieras que condujo finalmente a su partición y privatización en 1987. Nacieron así las diversas empresas territoriales del grupo JR.Durante los años de apuros financieros anteriores y posteriores a la privatización resultaba difícil afrontar proyectos de construcción de nuevas líneas, por lo que se optó por acomodar a la nueva anchura las vías ya existentes, el llamado “mini Shinkansen”. Esta fue la solución que se adoptó para establecer la línea Yamagata Shinkansen en 1992 y la Akita Shinkansen en 1997. En los trayectos del “mini Shinkansen” los trenes solo alcanzan los 130 kilómetros por hora, pero permiten continuar el viaje por la línea Tōhoku Shinkansen sin necesidad de hacer trasbordo.Después de la privatización, una corporación especial del Estado se encarga de la construcción las nuevas vías del Shinkansen, que una vez listas son alquiladas por alguna de las empresas territoriales del grupo JR. Este esquema se aplicó por primera vez en 1997, un año antes de los Juegos Olímpicos de Invierno de Nagano, para la construcción del Hokuriku Shinkansen entre Takasaki y Nagano. La línea no sufre las limitaciones de velocidad del “mini Shinkansen”, así que los trenes que la recorren pueden alcanzar los 260 kilómetros por hora.A partir de entonces, se han construido nuevas líneas de Shinkansen a toda escala. La Tōhoku Shinkansen se extendió hasta Hachinohe en 2003 y hasta Shin-Aomori en 2010. La Kyūshū Shinkansen comenzó operando en 2004 el tramo Kumamoto-Kagoshima-chūō, al que se sumó en 2011 el tramo Hakata-Kumamoto. En 2015 la línea Hokuriku Shinkansen abrió el tramo Nagano-Kanazawa y en 2016 la Hokkaidō Shinkansen el Shin-Aomori - Shin-Hakodate-Hokuto. De esta forma, la isla más septentrional (Hokkaidō) y la más meridional (Kyūshū) de las cuatro principales del archipiélago japonés quedaban unidas por la red Shinkansen.El 23 de septiembre de 2022 entrará en funcionamiento la nueva línea Nishi-Kyūshū Shinkansen (Takeoonsen-Nagasaki), para 2024 se espera que se abra el tramo Kanazawa-Tsuruga de la línea Hokuriku Shinkansen y para 2031 el Shin-Hakodate-Hokuto - Sapporo de la Hokkaidō Shinkansen (véase el mapa).",
+                "text_long": "El Shinkansen alcanza una velocidad récord de 400 km/h",
+                "url_imag": "https://cdn.pixabay.com/photo/2017/01/28/02/24/japan-2014618_640.jpg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Noticia 2",
+                "date": "2023-08-11",
+                "show": true,
+                "text_small": "La tecnología y la innovación son los motores que impulsan el tren de alta velocidad de Japón hacia el futuro. Desde la creación del primer tren bala en 1964, conocido como Shinkansen, el país ha seguido liderando la industria ferroviaria con su enfoque en la seguridad, la velocidad y la comodidad. Además de la eficiencia en el transporte, Japón ha forjado un camino en el desarrollo de tecnologías robóticas avanzadas. Desde androides que simulan la interacción humana hasta autómatas que realizan tareas en fábricas, la robótica japonesa es tanto una maravilla tecnológica como una reflexión de la voluntad del país de explorar lo desconocido. Esta pasión por la innovación se refleja en los distritos tecnológicos como Akihabara, donde los amantes de la tecnología pueden sumergirse en el último equipo electrónico y los gadgets más novedosos. Japón se mantiene en el vórtice de la vanguardia tecnológica, empujando los límites de lo posible.",
+                "text_long": "La Gastronomía Japonesa: Un Viaje de Sabores y Tradiciones Únicas",
+                "url_imag": "https://cdn.pixabay.com/photo/2017/01/28/02/24/japan-2014619_640.jpg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Noticia 3",
+                "date": "2023-08-12",
+                "show": true,
+                "text_small": "En los jardines japoneses, el tiempo se suspende en un paréntesis de serenidad y belleza. Cada rincón es un estudio en el equilibrio y la armonía, donde las piedras, el agua y las plantas son elementos cuidadosamente dispuestos para evocar una conexión con la naturaleza y la trascendencia espiritual. Los jardines de rocas, como el Ryoan-ji en Kioto, despiertan contemplaciones sobre la impermanencia de la vida y la simplicidad zen. Los puentes arqueados sobre estanques espejeantes en jardines como el Kenrokuen en Kanazawa aportan un sentido de misterio y maravilla. Cada jardín cuenta una historia, cada elemento evoca una emoción. En Japón, los jardines no son solo espacios verdes; son lienzos vivos que invitan a las personas a reflexionar y encontrar la paz en medio de la exuberancia natural y la creatividad humana.",
+                "text_long": "Japón en la Vanguardia Tecnológica: Innovación que Define el Futuro",
+                "url_imag": "https://cdn.pixabay.com/photo/2017/01/28/02/24/japan-2014616_640.jpg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Noticia 4",
+                "date": "2023-08-13",
+                "show": true,
+                "text_small": "Japón, un país que fusiona la tradición y la modernidad en una danza armónica, ofrece un viaje en el tiempo a través de sus monumentos históricos y sus maravillas contemporáneas. Los castillos medievales, como el majestuoso Himeji, se erigen como testigos de un pasado de samuráis y señores feudales. En contraste, la arquitectura de vanguardia en ciudades como Osaka y Nagoya refleja la audacia de la era moderna. Los festivales folclóricos, como Gion Matsuri en Kioto, transportan a los visitantes a épocas antiguas, mientras que los distritos de tecnología avanzada, como Odaiba en Tokio, exponen el futuro con rascacielos futuristas y atracciones digitales. Explorar Japón es adentrarse en un cuento de dos épocas entrelazadas, donde el pasado y el presente se unen en una experiencia única.",
+                "text_long": "Jardines Japoneses: Oasis de Serenidad y Conexión con la Naturaleza",
+                "url_imag": "https://cdn.pixabay.com/photo/2017/01/13/07/41/kyoto-1976538_640.jpg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Noticia 5",
+                "date": "2023-08-14",
+                "show": true,
+                "text_small": "La identidad cultural de Japón está impregnada de respeto, cortesía y profundo aprecio por la naturaleza. La ceremonia del té, el chanoyu, no es solo una forma de preparar y servir té, sino un ritual que refleja la armonía entre los participantes y su entorno. Los festivales estacionales, como el Hanami de primavera y el Momijigari de otoño, celebran los cambios en la naturaleza y conectan a las personas con los ciclos de la vida. La filosofía del wabi-sabi abraza la belleza de la imperfección y la transitoriedad. En el arte ikebana, los arreglos florales reflejan la asimetría y la simplicidad, resaltando la elegancia en lo efímero. A través de estas expresiones culturales, Japón comparte una lección de humildad, gratitud y armonía con el mundo.",
+                "text_long": "Japón: Un Mosaico Cultural de Cortesía, Naturaleza y Belleza Efímera",
+                "url_imag": "https://cdn.pixabay.com/photo/2016/11/29/12/12/architecture-1869398_640.jpg",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            }
+        ]
+
+    }
+]
